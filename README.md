@@ -2,6 +2,8 @@
 
 Landing Page Project for Udacity's [Front End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
 
+A live version of this project can be seen on GitHub Pages: [Landing Page](https://kevinptx.github.io/landing-page/)
+
 ## Table of Contents
 
 * [Description](#description)
