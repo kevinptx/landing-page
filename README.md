@@ -14,7 +14,7 @@ A live version of this project can be seen on GitHub Pages: [Landing Page](https
 
 ## Description
 
-This project is a simple landing page that demonstrates the use of JavaScript to manipulate the DOM. It also showcases responsive design techniques using HTML and CSS.
+This project is the second project in Udacity's Front End Developer Nanodegree program. It is a simple landing page that demonstrates the use of JavaScript to manipulate the DOM. It also showcases responsive design techniques using HTML and CSS.
 
 ## Instructions
 
